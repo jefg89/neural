@@ -26,4 +26,4 @@ build: $(SRC) ../include/$(INC)
 
 
 clean:
-		@rm -rf *.o *.so
+		@rm -rf *.o 
